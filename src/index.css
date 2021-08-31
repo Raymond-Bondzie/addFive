@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#classnum{
+  font-size: 110px;
+  margin-left: 100px;
+}
+
+.classbtn{
+  color: white;
+  background-color: teal;
+  padding: 20px;
+  margin-left: 20px;
+  border-radius: 15px;
+
+}
+
+#func{
+  font-size: 110px;
+  margin-left: 100px;
+  color: blue;
+}
+
+.funcBTN{
+  color: white;
+  background-color: black;
+  padding: 20px;
+  margin-left: 20px;
+  border-radius: 15px;
+}
